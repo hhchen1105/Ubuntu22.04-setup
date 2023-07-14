@@ -18,13 +18,13 @@
 0. Setup Network
 0. Install Google Chrome
 0. Install openssh-server and enable ssh connection
+0. Install and setup screen
 0. Install Lambda stack
 	- https://lambdalabs.com/
 0. Sync with Google Drive via insync
 0. Install KeepassX
 0. Install git
 0. Install and setup vim
-0. Install and setup screen
 0. Install build-essential
 0. Install Python3 and alias Python to Python3
 0. Install pyenv
