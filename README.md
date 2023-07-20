@@ -24,6 +24,7 @@
 	```
 0. Install and setup screen
 0. Install Lambda stack
+    - (Don't do this for the desktop machine at my office...the screen goes black after installation and rebooting)
     - https://lambdalabs.com/lambda-stack-deep-learning-software
 0. Sync with Google Drive via insync
 0. Install KeepassX
