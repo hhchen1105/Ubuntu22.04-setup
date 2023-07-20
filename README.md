@@ -26,12 +26,25 @@
 0. Install Lambda stack
     - (Don't do this for the desktop machine at my office...the screen goes black after installation and rebooting)
     - https://lambdalabs.com/lambda-stack-deep-learning-software
-0. Sync with Google Drive via insync
+0. Sync with Google Drive via Insync
 0. Install KeepassX
+   ```
+   sudo apt install keepass2
+   ```
 0. Install git
+   ```
+   sudo apt install git
+   ```
 0. Install and setup vim
+   ```
+   sudo apt install vim
+   ```
 0. Install build-essential
+   ```
+   sudo apt install build-essential
+   ```
 0. Install Python3 and alias Python to Python3
+   - Python3 is likely installed by default.  Check it before installation.
 0. Install pyenv
 0. Install PyTorch and Tensorflow in pyenv and verify GPU utilization
 0. Setup Google Account
