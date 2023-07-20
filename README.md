@@ -24,7 +24,7 @@
 	```
 0. Install and setup screen
 0. Install Lambda stack
-    - https://lambdalabs.com/
+    - https://lambdalabs.com/lambda-stack-deep-learning-software
 0. Sync with Google Drive via insync
 0. Install KeepassX
 0. Install git
