@@ -45,11 +45,10 @@
    ```
 0. Install Python3 and alias Python to Python3
    - Python3 is likely installed by default.  Check it before installation.
-0. Install pyenv
+0. Install and setup pyenv
 0. Install PyTorch and Tensorflow in pyenv and verify GPU utilization
-0. Setup Google Account
-0. Install and setup git and github
+0. Install and setup git and GitHub
 0. Install 嘸蝦米
 0. Use Software updater to update packages
 0. Setup printer
-0. Enable remote desktop using vino
+0. Enable remote desktop
