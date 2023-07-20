@@ -18,9 +18,13 @@
 0. Setup Network
 0. Install Google Chrome
 0. Install openssh-server and enable ssh connection
+	```
+	sudo apt install openssh-server
+ 	/etc/init.d/ssh restart
+	```
 0. Install and setup screen
 0. Install Lambda stack
-	- https://lambdalabs.com/
+    - https://lambdalabs.com/
 0. Sync with Google Drive via insync
 0. Install KeepassX
 0. Install git
