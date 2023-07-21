@@ -49,6 +49,18 @@
 0. Install PyTorch and Tensorflow in pyenv and verify GPU utilization
 0. Install and setup git and GitHub
 0. Install 嘸蝦米
+0. Install pycharm-professional
+   ```
+   sudo snap install pycharm-professional --classic
+   ```
+0. Install VS code
+   ```
+   sudo snap install --classic code
+   ```
+0. Install InkScape
+   ```
+   sudo apt install inkscape
+   ```
 0. Use Software updater to update packages
 0. Setup printer
 0. Enable remote desktop
